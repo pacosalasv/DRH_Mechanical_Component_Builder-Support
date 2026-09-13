@@ -31,7 +31,7 @@
 
 **DRH - Mechanical Component Builder** helps Blender users create reusable mechanical hardware components for hard-surface assets, props, vehicles, machinery details, kitbash workflows, and production-style scene detailing.
 
-This repository is the central public hub for support, documentation, issue tracking, compatibility feedback, and compatibility feedback and future development updates while active development is on hold.
+This repository is the central public hub for support, documentation, issue tracking, compatibility feedback and future development updates while active development is on hold.
 
 </div>
 
@@ -91,35 +91,6 @@ Instead of modeling every screw, nut, washer, spring, or related assembly manual
 
 ## Media preview
 
-<!--
-
----
-
-### Demo video
-
-Replace `YOUTUBE_VIDEO_ID` with your real YouTube video ID.
-
-Example:
-https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID" target="_blank">
-    <img width="720" alt="DRH - Mechanical Component Builder demo video" src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" />
-  </a>
-  <br>
-  <sub>Click the image to watch the demo on YouTube.</sub>
-</div>
--->
-
-<!--
-### Quick demo GIF
-
-Recommended size: 1280x720 or 960x540.
-
-<div align="center">
-  <img width="720" alt="DRH - Mechanical Component Builder quick demo" src="docs/media/mechanical-component-builder-demo.gif" />
-</div>
--->
 
 ### Screenshots
 
@@ -131,36 +102,6 @@ Recommended size: 1280x720 or 960x540.
 
 </div>
 
-<!--
-
-<details>
-
-  <summary><strong>More Screenshots...</strong></summary>
-
-<div align="center">
-
-| Fastener / Screw Controls | Nut and Washer Controls |
-|---|---|
-| <img height="420" alt="DRH - Mechanical Component Builder fastener controls" src="docs/media/ScreenShot_01.png" /> | <img height="420" alt="DRH - Mechanical Component Builder nut and washer controls" src="docs/media/ScreenShot_02.png" /> |
-
-| Spring Controls | Cutter and Assembly Controls |
-|---|---|
-| <img height="420" alt="DRH - Mechanical Component Builder spring controls" src="docs/media/ScreenShot_03.png" /> | <img height="420" alt="DRH - Mechanical Component Builder cutter and assembly controls" src="docs/media/ScreenShot_04.png" /> |
-
-</div>
-
-</details>
--->
-
-<!--
-### Visual preview
-
-Use this section if you want one large image instead of a gallery.
-
-<div align="center">
-  <img width="760" alt="DRH - Mechanical Component Builder preview" src="docs/media/mechanical-component-builder-preview.png" />
-</div>
--->
 
 ---
 
