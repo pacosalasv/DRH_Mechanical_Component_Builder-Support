@@ -20,40 +20,18 @@ DRH - Mechanical Component Builder is a Blender workflow utility designed to hel
 
 It is intended for hard-surface artists, Blender asset creators, game artists, vehicle modelers, prop designers, kitbash creators, product visualization artists, mechanical detailers, marketplace asset creators, and users who need screws, fasteners, nuts, washers, springs, cutters, or simple mechanical assemblies for detailed scene work.
 
-## Product status
-
-| Item | Details |
-|---|---|
-| Status | **Development On Hold** |
-| Version | 1.0.0 |
-| Blender | 4.2+ |
-| Platforms | Windows, macOS, Linux |
-| Availability | Development is currently on hold; no public download is promoted from this repository. |
-| Distribution | Support, documentation, and development history. |
-| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
-
-The repository remains available for documentation and feedback while active development is paused.
-
-## Capabilities
+## Key features
 
 | Capability |
 |---|
 | Procedural editable bolts, screws, nuts, washers, springs, rivets, studs, rings, and cutters |
 
-## Media
-
-Primary product screenshots are shown below. Additional screenshots, when present, remain in `docs/media/`.
-
-<div align="center">
-  <img width="420" alt="DRH - Mechanical Component Builder ScreenShot 01" src="docs/media/ScreenShot_01.png" />
-</div>
-
-## Product reference
+## Detailed features
 
 <details>
-<summary>Open detailed feature reference</summary>
+<summary>Open detailed features</summary>
 
-### Feature reference
+### Feature details
 
 #### Mechanical hardware generation
 | Details |
@@ -136,6 +114,28 @@ Primary product screenshots are shown below. Additional screenshots, when presen
 
 </details>
 
+## Product status
+
+| Item | Details |
+|---|---|
+| Status | **Development On Hold** |
+| Version | 1.0.0 |
+| Blender | 4.2+ |
+| Platforms | Windows, macOS, Linux |
+| Availability | Development is currently on hold; no public download is promoted from this repository. |
+| Distribution | Support, documentation, and development history. |
+| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
+
+The repository remains available for documentation and feedback while active development is paused.
+
+## Media
+
+Product screenshots:
+
+<div align="center">
+  <img width="420" alt="DRH - Mechanical Component Builder ScreenShot 01" src="docs/media/ScreenShot_01.png" />
+</div>
+
 ## Documentation and support
 
 | Resource | Link |
@@ -161,7 +161,8 @@ Ko-fi support is optional. Contributions help fund maintenance, Blender compatib
 | Destination | Link |
 |---|---|
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Paco Salas | DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| BlendKit | [DRH Blender downloads](https://www.blendkit.com/?query=author_id:205846) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
