@@ -6,11 +6,9 @@
 
 **Procedural editable bolts, screws, nuts, washers, springs, rivets, studs, rings, and cutters**
 
-![Status](https://img.shields.io/badge/Status-Development%20On%20Hold-7C3AED?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-00B7FF?style=for-the-badge)
-![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Development%20On%20Hold-7C3AED?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.0.0-00B7FF?style=for-the-badge) ![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge) ![Platforms](https://img.shields.io/badge/Platforms-Windows%2C%20macOS%2C%20Linux-334155?style=for-the-badge)
 
-[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
+[![Development status](https://img.shields.io/badge/Development%20status-View-64748B?style=for-the-badge)](#product-status) [![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add-ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
 
@@ -44,18 +42,20 @@ The repository remains available for documentation and feedback while active dev
 
 ## Media
 
-| Preview | Preview |
-|---|---|
-| <img width="420" alt="DRH - Mechanical Component Builder Screenshot 1" src="docs/media/ScreenShot_01.png" /> |  |
+Primary product screenshots are shown below. Additional screenshots, when present, remain in `docs/media/`.
+
+<div align="center">
+  <img width="420" alt="DRH - Mechanical Component Builder ScreenShot 01" src="docs/media/ScreenShot_01.png" />
+</div>
 
 ## Product reference
 
 <details>
 <summary>Open detailed feature reference</summary>
 
-## Feature reference
+### Feature reference
 
-### Mechanical hardware generation
+#### Mechanical hardware generation
 | Details |
 |---|
 | In-scene mechanical hardware creation workflow |
@@ -64,7 +64,7 @@ The repository remains available for documentation and feedback while active dev
 | Fast component variation for repeated design tasks |
 | Useful for asset packs, renders, prototypes, props, and kitbash workflows |
 
-### Fasteners and screws
+#### Fasteners and screws
 | Details |
 |---|
 | Fastener component creation |
@@ -73,40 +73,40 @@ The repository remains available for documentation and feedback while active dev
 | Reusable fastener variations for hard-surface scenes |
 | Detail elements for props, vehicles, machines, and mechanical assets |
 
-### Nuts
+#### Nuts
 
 - Nut component creation
 - Hardware-style nut details
 - Reusable nut variations
 - Useful for mechanical assemblies, asset detailing, and kitbash workflows
 
-### Washers
+#### Washers
 
 - Washer component creation
 - Reusable washer-style hardware details
 - Useful for fastener assemblies and mechanical detailing
 - Supports clean repeated component workflows
 
-### Springs
+#### Springs
 
 - Spring component creation
 - Reusable spring-style mechanical forms
 - Adjustable spring-style proportions
 - Useful for technical assets, props, machinery details, and mechanical scene dressing
 
-### Cutter workflow
+#### Cutter workflow
 - Cutter option for generated components
 - Supports cut operations based on generated mechanical hardware
 - Useful for integrating screws, fasteners, nuts, washers, and spring-related details into hard-surface models
 - Helps prepare component placement and visual fit within Blender scenes
 
-### Assembly workflow
+#### Assembly workflow
 - Assembly creation using generated components
 - Combine fasteners, nuts, washers, springs, or related generated hardware
 - Useful for reusable mechanical setups
 - Helps create consistent component groups for props, assets, and scene details
 
-### Shape and proportion controls
+#### Shape and proportion controls
 | Details |
 |---|
 | Component size controls |
@@ -115,7 +115,7 @@ The repository remains available for documentation and feedback while active dev
 | Visual variation controls for reusable assets |
 | Proportion-focused workflow for cleaner mechanical forms |
 
-### Hard-surface detailing
+#### Hard-surface detailing
 | Details |
 |---|
 | Mechanical hardware detail generation for Blender scenes |
@@ -124,7 +124,7 @@ The repository remains available for documentation and feedback while active dev
 | Fast component iteration workflows |
 | Asset-friendly component generation for production-style use |
 
-### Workflow and UI
+#### Workflow and UI
 | Details |
 |---|
 | Dedicated component sections |
@@ -140,20 +140,15 @@ The repository remains available for documentation and feedback while active dev
 
 | Resource | Link |
 |---|---|
-| User manual | [User manual](docs/manual/user-manual.pdf) |
-| Support guide | [Support guide](SUPPORT.md) |
-| Manual changelog | [Manual changelog](docs/manual/manual-changelog.md) |
-| Product changelog | [Product changelog](CHANGELOG.md) |
-| GitHub Discussions | [GitHub Discussions](https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support/discussions) |
-| GitHub Issues | [GitHub Issues](https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support/issues/new/choose) |
+| Support guide | [SUPPORT.md](SUPPORT.md) |
+| User manual | [PDF manual](docs/manual/user-manual.pdf) |
+| Repository changelog | [CHANGELOG.md](CHANGELOG.md) |
+| Issues | [Open or review issues](https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support/issues) |
+| Discussions | [Ask questions and share feedback](https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support/discussions) |
 
-Use **Discussions** for questions, setup help, workflow guidance, and general feedback. Use **Issues** for reproducible bugs, regressions, compatibility problems, documentation errors, and focused feature requests.
+## Support development
 
-Before posting, review [SUPPORT.md](SUPPORT.md) for the shared DRH support format and public-information guidance.
-
-## Support DRH development
-
-If this project or another free DRH tool saves you time, optional Ko-fi support helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
+Ko-fi support is optional. Contributions help fund maintenance, Blender compatibility work, documentation, testing, and continued development of free DRH tools.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -161,13 +156,13 @@ If this project or another free DRH tool saves you time, optional Ko-fi support 
   </a>
 </div>
 
-## DRH ecosystem
+## Ecosystem
 
 | Destination | Link |
 |---|---|
-| DRH Add-ons Hub | [Catalog, roadmap, and product status](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
-| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
+| DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
+| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
 
