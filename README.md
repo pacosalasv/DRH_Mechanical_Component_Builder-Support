@@ -148,12 +148,14 @@ Product screenshots:
 
 ## Support development
 
-Ko-fi support is optional. Contributions help fund maintenance, Blender compatibility work, documentation, testing, and continued development of free DRH tools.
+Support is optional. Ko-fi and PayPal contributions help fund maintenance, Blender compatibility work, documentation, testing, and continued development of free DRH tools.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
     <img width="620" alt="Support Paco Salas | DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
+  <br />
+  <strong>Prefer PayPal?</strong> <a href="https://www.paypal.com/paypalme/pacosalas?locale.x=en_US&country.x=MX">Support DRH development with PayPal</a>
 </div>
 
 ## Ecosystem
@@ -161,6 +163,7 @@ Ko-fi support is optional. Contributions help fund maintenance, Blender compatib
 | Destination | Link |
 |---|---|
 | Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
+| PayPal | [Support development](https://www.paypal.com/paypalme/pacosalas?locale.x=en_US&country.x=MX) |
 | Issues & feedback | [GitHub Issues](https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support/issues) |
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
 | BlendKit | [DRH Blender catalog](https://www.blendkit.com/?query=author_id:205846) |
