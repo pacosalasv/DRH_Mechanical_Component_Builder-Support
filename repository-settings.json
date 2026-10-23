@@ -1,0 +1,17 @@
+{
+  "description": "Documentation and support for DRH - Mechanical Component Builder, a hard-surface hardware toolkit currently on hold.",
+  "homepage": "https://github.com/pacosalasv/DRH_Mechanical_Component_Builder-Support",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "blender",
+    "blender-addon",
+    "hard-surface",
+    "mechanical",
+    "fasteners",
+    "procedural-modeling",
+    "technical-support",
+    "drh"
+  ]
+}
